@@ -18,13 +18,13 @@
 [<img src="https://i.ibb.co/F3WwqsV/7-phones-36x36.png" width="28" height="28" /> Cep Telefonları](#mobile-devices)<br>
 [<img src="https://i.ibb.co/ZftcgJq/8-computers-36x36.png" width="28" height="28" /> Bilgisayarlar](#personal-computers)<br>
 [<img src="https://i.ibb.co/b2S9372/9-smart-home-36x36.png" width="28" height="28" /> Akıllı Ev](#smart-home)<br>
-[<img src="https://i.ibb.co/4JTqL5y/12-finance-36x36.png" width="28" height="28" /> Kişisel Finans](#personal-finance)<br>
+[<img src="https://i.ibb.co/4JTqL5y/12-finance-36x36.png" width="28" height="28" /> Finans](#personal-finance)<br>
 [<img src="https://i.ibb.co/KVPV1Lk/10-human-36x36.png" width="28" height="28" /> İnsani Yön](#sensible-computing)<br>
 [<img src="https://i.ibb.co/9NbhBww/11-physical-36x36.png" width="28" height="28" /> Fiziksel Güvenlik](#physical-security)<br>
 
-Too long? 🦒 See the [TLDR version](/2_TLDR_Short_List.md) instead.
+Çok mu uzun? 🦒 Bunun yerine [TLDR versiyon](/2_TLDR_Short_List.md) 'a göz atın.
 
-For a list of privacy-respecting software, check out [Awesome-Privacy](https://github.com/lissy93/awesome-privacy).
+Gizliliğe önem veren yazılımların bir listesi için, şurayı kontrol edin: [Awesome-Privacy](https://github.com/lissy93/awesome-privacy).
 
 A mirror of this repo is available at [codeberg.org/alicia/personal-security-checklist](https://codeberg.org/alicia/personal-security-checklist).
 
