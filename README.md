@@ -63,13 +63,13 @@ Uzun, güçlü ve benzersiz şifreler kullanın, bunları güvenli bir şifre y�
 **Önerilen yazılımlar**: [Şifre yöneticileri](https://github.com/Lissy93/awesome-privacy#password-managers) | [2FA Yöneticileri](https://github.com/Lissy93/awesome-privacy#2-factor-authentication)
 
 
-## Web Browsing
+## Web'de Gezinme
 
-Most websites on the internet will use some form of tracking, often to gain insight into their users behaviour and preferences. This data can be incredibly detailed, and so is extremely valuable to corporations, governments and intellectual property thieves. Data breaches and leaks are common, and deanonymizing users web activity is often a trivial task
+İnternetteki çoğu web sitesi, genellikle kullanıcılarının davranışları ve tercihleri ​​hakkında fikir edinmek için bir tür izleme yöntemi kullanır. Bu veriler inanılmaz derecede ayrıntılı olabilir ve bu nedenle şirketler, hükümetler ve fikri mülkiyet hırsızları için son derece değerli karşılanır. Veri ihlalleri ve sızıntıları yaygındır ve kullanıcıların web etkinliğini anonimleştirmek genellikle önemsiz bir iştir.
 
-There are two primary methods of tracking; stateful (cookie-based), and stateless (fingerprint-based). Cookies are small pieces of information, stored in your browser with a unique ID that is used to identify you. Browser fingerprinting is a highly accurate way to identify and track users wherever they go online. The information collected is quite comprehensive, and often includes browser details, OS, screen resolution, supported fonts, plugins, time zone, language and font preferences, and even hardware configurations.
+İzlemenin iki ana yöntemi vardır; Stateful (çerez tabanlı) ve stateless (parmak izi tabanlı). Çerezler, sizi tanımlamak için kullanılan benzersiz bir kimlikle tarayıcınızda saklanan küçük bilgi parçalarıdır. Tarayıcı parmak izi, kullanıcıları çevrimiçi oldukları her yerde tanımlamanın ve izlemenin son derece doğru bir yoludur. Toplanan bilgiler oldukça kapsamlıdır ve genellikle tarayıcı ayrıntılarını, işletim sistemini, ekran çözünürlüğünü, desteklenen yazı tiplerini, eklentileri, saat dilimini, dil ve yazı tipi tercihlerini ve hatta donanım yapılandırmalarını içerir.
 
-This section outlines the steps you can take, to be better protected from threats, minimise online tracking and improve privacy. A summarized shorter version of this list can be found [here](/2_TLDR_Short_List.md#browsing)
+Bu bölüm, tehditlerden daha iyi korunmak, çevrimiçi izlemeyi en aza indirmek ve gizliliği artırmak için atabileceğiniz adımları özetlemektedir. Bu listenin özetlenmiş daha kısa bir versiyonu [burada](/2_TLDR_Short_List.md#browsing) bulunabilir.
 
 **Security** | **Priority** | **Details and Hints**
 --- | --- | ---
