@@ -26,19 +26,19 @@
 
 Gizliliğe önem veren yazılımların bir listesi için, şurayı kontrol edin: [Awesome-Privacy](https://github.com/lissy93/awesome-privacy).
 
-A mirror of this repo is available at [codeberg.org/alicia/personal-security-checklist](https://codeberg.org/alicia/personal-security-checklist).
+Bu repo'nun bir tür benzeri şuradadır: [codeberg.org/alicia/personal-security-checklist](https://codeberg.org/alicia/personal-security-checklist).
 
 ----
 
-## Authentication
+## Kimlik Doğrulama
 
-Most reported data breaches are caused by the use of weak, default or stolen passwords (according to [this Verizon report](http://www.verizonenterprise.com/resources/reports/rp_dbir-2016-executive-summary_xg_en.pdf)).
+Bildirilen veri ihlallerinin çoğu, zayıf, varsayılan veya çalınmış parolaların kullanılmasından kaynaklanır ([bu Verizon raporuna göre](http://www.verizonenterprise.com/resources/reports/rp_dbir-2016-executive-summary_xg_en.pdf)).
 
-Use long, strong and unique passwords, manage them in a secure password manager, enable 2-factor authentication, keep on top of breaches and take care while logging into your accounts.
+Uzun, güçlü ve benzersiz şifreler kullanın, bunları güvenli bir şifre yöneticisinde tutun, 2 faktörlü kimlik doğrulamayı etkinleştirin, veri sızıntılarını takip edin ve hesaplarınıza giriş yaparken dikkatli olun.
 
-**Security** | **Priority** | **Details and Hints**
+**Güvenlik** | **Öncelik** | **Detaylar ve İpucuları**
 --- | --- | ---
-**Use a Strong Password** | Recommended | If your password is too short, or contains dictionary words, places or names- then it can be easily cracked through brute force, or guessed by someone. The easiest way to make a strong password, is by making it long (12+ characters)- consider using a 'passphrase', made up of many words. Alternatively, use a password generator to create a long, strong random password. Have a play with [HowSecureIsMyPassword.net](https://howsecureismypassword.net), to get an idea of how quickly common passwords can be cracked. Read more about creating strong passwords: [securityinabox.org](https://securityinabox.org/en/passwords/passwords-and-2fa/)
+**Güçlü Bir Parola Kullanın** | Önerilen | If your password is too short, or contains dictionary words, places or names- then it can be easily cracked through brute force, or guessed by someone. The easiest way to make a strong password, is by making it long (12+ characters)- consider using a 'passphrase', made up of many words. Alternatively, use a password generator to create a long, strong random password. Have a play with [HowSecureIsMyPassword.net](https://howsecureismypassword.net), to get an idea of how quickly common passwords can be cracked. Read more about creating strong passwords: [securityinabox.org](https://securityinabox.org/en/passwords/passwords-and-2fa/)
 **Don't reuse Passwords** | Recommended | If someone was to reuse a password, and one site they had an account with suffered a leak, then a criminal could easily gain unauthorized access to their other accounts. This is usually done through large-scale automated login requests, and it is called Credential Stuffing. Unfortunately this is all too common, but it's simple to protect against- use a different password for each of your online accounts
 **Use a Secure Password Manager** | Recommended | For most people it is going to be near-impossible to remember hundreds of strong and unique passwords. A password manager is an application that generates, stores and auto-fills your login credentials for you. All your passwords will be encrypted against 1 master passwords (which you must remember, and it should be very strong). Most password managers have browser extensions and mobile apps, so whatever device you are on, your passwords can be auto-filled. A good all-rounder is [BitWarden](https://bitwarden.com), or see [Recommended Password Managers](https://github.com/Lissy93/awesome-privacy#password-managers)
 **Avoid sharing passwords** | Recommended | While there may be times that you need to share access to an account with another person, you should generally avoid doing this because it makes it easier for the account to become compromised. If you absolutely do need to share a password for example when working on a team with a shared account this should be done via features built into a password manager.
