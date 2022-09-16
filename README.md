@@ -6,8 +6,6 @@
 <p align="center"><img src="https://i.ibb.co/GVGnZTC/16faabb6f162ccb807e3f64c586bb6cf19bf1fa7394f9e3b48f54c3b176248d8f09bb64149f4f70ada39a3ee5e6b4b0d3255.png" /></p>
 
 *<p align="center">Siber güvenliğinizi ve gizliliğinizi korumak için derlenmiş ipuçları listesi</p>*
-*<p align="center">Türkçeye çeviren: Efe (Climpy)</p>*
-
 ### Contents
 
 [<img src="https://i.ibb.co/XbyGTrP/1-authentication-2-36x36.png" width="28" height="28" /> Kimlik Doğrulama](#kimlik-doğrulama)<br>
