@@ -63,7 +63,7 @@ Uzun, güçlü ve benzersiz şifreler kullanın, bunları güvenli bir şifre y�
 **Önerilen yazılımlar**: [Şifre yöneticileri](https://github.com/Lissy93/awesome-privacy#password-managers) | [2FA Yöneticileri](https://github.com/Lissy93/awesome-privacy#2-factor-authentication)
 
 
-## Web'de Gezinme
+## Web de Gezinme
 
 İnternetteki çoğu web sitesi, genellikle kullanıcılarının davranışları ve tercihleri ​​hakkında fikir edinmek için bir tür izleme yöntemi kullanır. Bu veriler inanılmaz derecede ayrıntılı olabilir ve bu nedenle şirketler, hükümetler ve fikri mülkiyet hırsızları için son derece değerli karşılanır. Veri ihlalleri ve sızıntıları yaygındır ve kullanıcıların web etkinliğini anonimleştirmek genellikle önemsiz bir iştir.
 
