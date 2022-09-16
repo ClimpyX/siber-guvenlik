@@ -10,7 +10,7 @@
 ### Contents
 
 [<img src="https://i.ibb.co/XbyGTrP/1-authentication-2-36x36.png" width="28" height="28" /> Kimlik Doğrulama](#kimlik-doğrulama)<br>
-[<img src="https://i.ibb.co/8KMrdbX/2-internet-36x36.png" width="28" height="28" /> Web'de Gezinme](#web'de-gezinme)<br>
+[<img src="https://i.ibb.co/8KMrdbX/2-internet-36x36.png" width="28" height="28" /> Web'de Gezinme](#web-de-gezinme)<br>
 [<img src="https://i.ibb.co/7NrXW3L/5-email-36x36.png" width="28" height="28" /> Email](#emails)<br>
 [<img src="https://i.ibb.co/DrWJBT9/13-messaging-36x36.png" width="28" height="28" /> Güvenli Mesajlaşma](#secure-messaging)<br>
 [<img src="https://i.ibb.co/GFYyXMd/6-social-media-36x36.png" width="28" height="28" /> Sosyal Medya](#social-media)<br>
