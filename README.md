@@ -6,6 +6,7 @@
 <p align="center"><img src="https://i.ibb.co/jLjYgYy/16faabb6f162ccb807e3f64c586bb6cf19bf1fa77b594e337bb8f35f371c07825333a565f801787fda39a3ee5e6b4b0d3255.png" /></p>
 
 *<p align="center">Siber güvenliğinizi ve gizliliğinizi korumak için derlenmiş ipuçları listesi</p>*
+*<p align="center">ClimpyX tarafından Türkçeleştirildi, beni GitHub'da ve Twitter'da takip edin.</p>*
 
 ### Contents
 
