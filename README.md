@@ -503,6 +503,8 @@ Birisi sizi, cihazlarınızı ve verilerinizi fiziksel olarak tehlikeye atabiliy
 
 [![Attribution 4.0 International](https://licensebuttons.net/l/by/3.0/88x31.png)](/LICENSE.md)
 
+*Türkçeleştirmeye dair notlar; hazırlarken kafa karıştırıcı şeylere yer vermemeye ve bazı terimleri zaten mevcut olarak bilinen anlamlarını korumaya çalıştım, umarım faydalı bulmuşsunuzdur. Daha fazlasından haberdar olmak için beni [GitHub'da](https://www.github.com/ClimpyX) ve [Twitter'da](https://www.twitter.com/ClimpyX) takip edin.*
+
 ---
 
 Bu projenin devam eden gelişimini desteklemeye yardımcı olun 💖
@@ -521,6 +523,6 @@ http://www.linkedin.com/shareArticle?mini=true&url=hhttps://github.com/ClimpyX/s
 
 ---
 
-Topp Contributors 👥
+Katkıda Bulunanlar 👥
 
-[![Contributors](https://raw.githubusercontent.com/Lissy93/personal-security-checklist/master/.github/CONTRIBUTORS.svg)](/ATTRIBUTIONS.md)
+[![Katkıda bulunanlar](https://raw.githubusercontent.com/Lissy93/personal-security-checklist/master/.github/CONTRIBUTORS.svg)](/ATTRIBUTIONS.md)
