@@ -94,7 +94,7 @@ Verilerinizi toplamayan, sizi takip etmeyen veya hedefli reklamlar göstermeyen 
 - [uBlock Origin] - Reklamları, izleyicileri ve kötü amaçlı yazılımları engeller.
 - [ScriptSafe] - Belirli komut dosyalarının yürütülmesini engeller.
 - [WebRTC Leak Prevent] - IP sızıntılarını önler.
-- Vanilla Cookie Manager] - İstenmeyen çerezleri otomatik olarak kaldırır.
+- [Vanilla Cookie Manager] - İstenmeyen çerezleri otomatik olarak kaldırır.
 - [Privacy Essentials] - Hangi sitelerin güvensiz olduğunu gösterir
 
 #### Mobil Uygulamalar
