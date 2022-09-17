@@ -1,34 +1,34 @@
-# Awesome Privacy & Security Links
+# Gizlilik ve Güvenlik Bağlantıları
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff?&style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![Contributors](https://img.shields.io/github/contributors/lissy93/personal-security-checklist?color=%23ffa900&style=flat-square)](https://github.com/Lissy93/personal-security-checklist/graphs/contributors)
 
-*A curated list of notable guides, articles, tools and media - relating to digital security, internet freedom and online privacy*
+*Dijital güvenlik, internet özgürlüğü ve çevrimiçi gizlilikle ilgili kayda değer kılavuzlar, makaleler, araçlar ve medyanın derlenmiş bir listesi*
 
-**See also**: [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist/blob/master/README.md) | [Privacy-Respecting Software](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md) | [Security Gadgets](/6_Privacy_and-Security_Gadgets.md) | [Why Privacy Matters](/0_Why_It_Matters.md) | [TLDR](/2_TLDR_Short_List.md)🔐
+**Ayrıca bakınız**: [Kişisel Güvenlik Kontrol Listesi] (https://github.com/Lissy93/personal-security-checklist/blob/master/README.md) | [Gizliliğe Saygı Duyan Yazılım](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md) | [Security Gadgets](/6_Privacy_and-Security_Gadgets.md) | [Why Privacy Matters](/0_Why_It_Matters.md) | [TLDR](/2_TLDR_Short_List.md)🔐
 
-## Contents
+## İçindekiler
 
-- **Information and Guides**
-  - [How-To Guides](#how-to-guides)
-  - [Articles](#articles)
-  - [Blogs](#blogs)
-- **Media**
-  - [Books](#books)
-  - [Podcasts](#podcasts)
-  - [Videos](#videos)
-- **Security Tools & Services**
-  - [Online Tools](#online-tools)
-  - Privacy-Respecting Software, moved to [here](https://github.com/Lissy93/awesome-privacy)
-  - Security Hardware, moved to [here](/6_Privacy_and-Security_Gadgets.md)
-- **Research**
-  - [Data and API's](#data-apis-and-visualisations)
-  - [Academic](#academic)
-- **Organisations**
-  - [Foundations](#foundations)
-  - [Government and Independant Organisations](#governance)
-- **More Lists**
-  - [Mega Guides](#mega-guides)
-  - [Other GitHub Security Lists](#more-awesome-github-lists)
+- **Bilgi ve Kılavuzlar**
+  - [Nasıl Yapılır Kılavuzları](#how-to-guides)
+  - [Makaleler](#articles)
+  - [Bloglar](#bloglar)
+- **Medya**
+  - [Kitaplar](#books)
+  - [Podcast'ler](#podcasts)
+  - [Videolar](#videos)
+- **Güvenlik Araçları ve Hizmetleri**
+  - [Çevrimiçi Araçlar](#online-tools)
+  - Gizliliğe Saygı Gösteren yazılımlar, [buraya](https://github.com/Lissy93/awesome-privacy) taşındı
+  - Güvenlik Donanımı, [buraya](/6_Privacy_and-Security_Gadgets.md) taşındı
+- **Araştırma**
+  - [Veri ve API'ler](#data-apis-and-visualisations)
+  - [Akademik](#academic)
+- **Organizasyonlar**
+  - [Vakıflar](#foundations)
+  - [Hükümet ve Bağımsız Kuruluşlar](#governance)
+- **Daha Fazla Liste**
+  - [Mega Kılavuzlar](#mega-guides)
+  - [Diğer GitHub Güvenlik Listeleri](#more-awesome-github-lists)
 
 
 ## How-To Guides
