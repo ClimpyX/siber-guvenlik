@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff?&style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 [![Contributors](https://img.shields.io/github/contributors/lissy93/personal-security-checklist?color=%23ffa900&style=flat-square)](https://github.com/Lissy93/personal-security-checklist/graphs/contributors)
 
-<p align="center"><img src="https://i.ibb.co/GVGnZTC/16faabb6f162ccb807e3f64c586bb6cf19bf1fa7394f9e3b48f54c3b176248d8f09bb64149f4f70ada39a3ee5e6b4b0d3255.png" /></p>
+<p align="center"><img src="https://i.ibb.co/jLjYgYy/16faabb6f162ccb807e3f64c586bb6cf19bf1fa77b594e337bb8f35f371c07825333a565f801787fda39a3ee5e6b4b0d3255.png" /></p>
 
 *<p align="center">Siber güvenliğinizi ve gizliliğinizi korumak için derlenmiş ipuçları listesi</p>*
 
