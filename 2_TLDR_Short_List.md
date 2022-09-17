@@ -89,7 +89,7 @@ Verilerinizi toplamayan, sizi takip etmeyen veya hedefli reklamlar göstermeyen 
 - Uygulama Güvenlik Duvarı: [NetGuard] (Android) | [Lockdown] (iOS) | [OpenSnitch] (Linux) | [LuLu] (MacOS)
 
 #### Tarayıcı Uzantıları
-- Privacy Badger] - İzleyicileri engeller.
+- [Privacy Badger] - İzleyicileri engeller.
 - [HTTPS Everywhere] - İstekleri HTTPS'ye yükseltir.
 - [uBlock Origin] - Reklamları, izleyicileri ve kötü amaçlı yazılımları engeller.
 - [ScriptSafe] - Belirli komut dosyalarının yürütülmesini engeller.
@@ -98,22 +98,22 @@ Verilerinizi toplamayan, sizi takip etmeyen veya hedefli reklamlar göstermeyen 
 - [Privacy Essentials] - Hangi sitelerin güvensiz olduğunu gösterir
 
 #### Mobil Uygulamalar
-- Exodus] - Cihazınızda hangi izleyicilerin olduğunu gösterir.
+- [Exodus] - Cihazınızda hangi izleyicilerin olduğunu gösterir.
 - [Orbot]- Sistem genelinde Tor Proxy.
-- Island] - Uygulamalar için kum kutusu ortamı.
-- NetGuard] - Hangi uygulamaların ağ erişimine sahip olduğunu kontrol eder.
-- Bouncer] - Geçici izinler verin.
-- Greenify] - Hangi uygulamaların arka planda çalışabileceğini kontrol edin.
-- 1.1.1.1] - CloudFlare'in HTTPS üzerinden DNS'sini kullanın.
+- [Island] - Uygulamalar için kum kutusu ortamı.
+- [NetGuard] - Hangi uygulamaların ağ erişimine sahip olduğunu kontrol eder.
+- [Bouncer] - Geçici izinler verin.
+- [Greenify] - Hangi uygulamaların arka planda çalışabileceğini kontrol edin.
+- [1.1.1.1] - CloudFlare'in HTTPS üzerinden DNS'sini kullanın.
 - [Fing App] - Ev WiFi ağınızı davetsiz misafirlere karşı izleyin
 
 #### Çevrimiçi Araçlar
 - [εxodus] - Bir uygulamanın hangi izleyicilere sahip olduğunu gösterir.
 - [';--have i been pwned?] - Bilgilerinizin bir ihlalde açığa çıkıp çıkmadığını kontrol edin.
-- EXIF Remover] - Görüntü veya dosyadan meta verileri kaldırır.
-- Yönlendirme Dedektifi] - Bağlantının nereye yönlendirildiğini gösterir.
-- Virus Total] - Dosya veya URL'yi kötü amaçlı yazılımlara karşı tarar.
-- Panopticlick], [Tarayıcı Sızıntı Testi] ve [IP Sızıntı Testi] - Sistem ve tarayıcı sızıntılarını kontrol edin
+- [EXIF Remover] - Görüntü veya dosyadan meta verileri kaldırır.
+- [Yönlendirme Dedektifi] - Bağlantının nereye yönlendirildiğini gösterir.
+- [Virus Total] - Dosya veya URL'yi kötü amaçlı yazılımlara karşı tarar.
+- [Panopticlick], [Tarayıcı Sızıntı Testi] ve [IP Sızıntı Testi] - Sistem ve tarayıcı sızıntılarını kontrol edin
 
 #### Üretkenlik Araçları
 - Dosya Depolama: [NextCloud].
