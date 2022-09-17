@@ -111,7 +111,7 @@ Verilerinizi toplamayan, sizi takip etmeyen veya hedefli reklamlar göstermeyen 
 - [εxodus] - Bir uygulamanın hangi izleyicilere sahip olduğunu gösterir.
 - [';--have i been pwned?] - Bilgilerinizin bir ihlalde açığa çıkıp çıkmadığını kontrol edin.
 - [EXIF Remover] - Görüntü veya dosyadan meta verileri kaldırır.
-- [Yönlendirme Dedektifi] - Bağlantının nereye yönlendirildiğini gösterir.
+- [Redirect Detective] - Bağlantının nereye yönlendirildiğini gösterir.
 - [Virus Total] - Dosya veya URL'yi kötü amaçlı yazılımlara karşı tarar.
 - [Panopticlick], [Tarayıcı Sızıntı Testi] ve [IP Sızıntı Testi] - Sistem ve tarayıcı sızıntılarını kontrol edin
 
