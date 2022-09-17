@@ -503,7 +503,7 @@ Birisi sizi, cihazlarınızı ve verilerinizi fiziksel olarak tehlikeye atabiliy
 
 [![Attribution 4.0 International](https://licensebuttons.net/l/by/3.0/88x31.png)](/LICENSE.md)
 
-*Türkçeleştirmeye dair notlar; hazırlarken kafa karıştırıcı şeylere yer vermemeye ve bazı terimleri zaten mevcut olarak bilinen anlamlarını korumaya çalıştım, umarım faydalı bulmuşsunuzdur. Daha fazlasından haberdar olmak için beni [GitHub'da](https://www.github.com/ClimpyX) ve [Twitter'da](https://www.twitter.com/ClimpyX) takip edin.*
+*Türkçeleştirmeye dair notlar; hazırlarken kafa karıştırıcı şeylere yer vermemeye ve bazı terimleri zaten mevcut olarak bilinen anlamlarını korumak adına özen gösterdim. Umarım faydalı bulmuşsunuzdur. Daha fazlasından haberdar olmak için beni [GitHub'da](https://www.github.com/ClimpyX) ve [Twitter'da](https://www.twitter.com/ClimpyX) takip edin.*
 
 ---
 
