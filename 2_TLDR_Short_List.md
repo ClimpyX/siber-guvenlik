@@ -1,163 +1,162 @@
-# Personal Cyber Security | TLDR [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff?&style=flat-square)](https://creativecommons.org/licenses/by/4.0/)[![Contributors](https://img.shields.io/github/contributors/lissy93/personal-security-checklist?color=%23ffa900&style=flat-square)](/ATTRIBUTIONS.md#contributors-)
+# Kişisel Siber Güvenlik | TLDR [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff?&style=flat-square)](https://creativecommons.org/licenses/by/4.0/)[![Contributors](https://img.shields.io/github/contributors/lissy93/personal-security-checklist?color=%23ffa900&style=flat-square)](/ATTRIBUTIONS.md#contributors-)
 
 #### Contents
-- [Personal Security Checklist](#personal-security-checklist)
-- [Privacy-focused Software](#open-source-privacy-focused-software)
-- [Security Hardware](#security-hardware)
+- [Kişisel Güvenlik Kontrol Listesi](#personal-security-checklist)
+- [Gizlilik Odaklı Yazılım](#open-source-privacy-focused-software)
+- [Güvenlik Donanımı](#security-hardware)
 
-## PERSONAL SECURITY CHECKLIST
+## KİŞİSEL GÜVENLİK KONTROL LİSTESİ
 
-> This checklist of privacy and security tips, is a summarized version of [The Complete Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist/blob/master/README.md). It lays out the most essential steps you should take to protect your digital life.
+> Gizlilik ve güvenlik ipuçlarını içeren bu kontrol listesi, [The Complete Personal Security Checklist] (https://github.com/Lissy93/personal-security-checklist/blob/master/README.md)'in özetlenmiş bir versiyonudur. Dijital hayatınızı korumak için atmanız gereken en temel adımları ortaya koymaktadır.
 
-### Authentication
-- Use a long, strong and unique password for each of your accounts (see [HowSecureIsMyPassword.net](https://howsecureismypassword.net))
-- Use a secure [password manager](https://github.com/Lissy93/awesome-privacy#password-managers), to encrypt, store and fill credentials, such as [BitWarden](https://bitwarden.com) or [KeePass](https://keepass.info) / [KeePassXC](https://keepassxc.org)
-- Enable 2-Factor authentication where available, and use an [authenticator app](https://github.com/Lissy93/awesome-privacy#2-factor-authentication) or [hardware token](/6_Privacy_and-Security_Gadgets.md#fido-u2f-keys)
-- When you enable multi-factor authentication, you will usually be given several codes that you can use if your 2FA method is lost, broken or unavailable. You should store these on paper or in a safe place on disk (e.g. in offline storage or as in an encrypted file/drive).
-- Sign up for breach alerts (with [Firefox Monitor](https://monitor.firefox.com) or [HaveIBeenPwned](https://haveibeenpwned.com)), and update passwords of compromised accounts
-
-
-### Browsing
-- Use a Privacy-Respecting Browser, [Brave](https://brave.com) and [Firefox](https://www.mozilla.org/en-US/exp/firefox/new) are good options. Set your default search to a non-tracking engine, such as [DuckDuckGo](https://duckduckgo.com)
-- Do not enter any information on a non-HTTPS website (look for the lock icon). Firefox, Chrome, Edge and Safari now have integrated HTTPS security features; if you do not know if it's enabled, check out this [guide](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere) to learn where to look.
-- Block invasive 3rd-party trackers and ads using an extension like [Privacy Badger](https://privacybadger.org) or [uBlock](https://github.com/gorhill/uBlock)
-- Keep your browser up-to-date, explore the privacy settings and remove unnecessary add-ons/ extensions
-- Consider using compartmentalization to separate different areas of your browsing (such as work, social, shopping etc), in order to reduce tracking. This can be done with [Firefox Containers](https://support.mozilla.org/en-US/kb/containers), or by using separate browsers or browser profiles
-- Don't allow your browser to save your passwords or auto-fill personal details (instead use a [password manager](https://github.com/Lissy93/awesome-privacy#password-managers), and [disable your browsers own auto-fill](https://www.computerhope.com/issues/ch001377.htm))
-- Clear your cookies, session data and cache regularly. An extension such as [Cookie-Auto-Delete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) can be used to automate this
-- Don't sign into your browser, as it can link further data to your identity. If you need to, you can use an open source [bookmark sync](https://github.com/Lissy93/awesome-privacy#browser-sync) app
-- Consider using [Decentraleyes](https://decentraleyes.org) to decrease the number of trackable CDN requests your device makes
-- Test your browser using a tool like [Panopticlick](https://panopticlick.eff.org) to ensure there are no major issues. [BrowserLeaks](https://browserleaks.com) and [Am I Unique](https://amiunique.org/fp) are also useful for exploring what device info you are exposing to websites
-- For anonymous browsing use [The Tor Browser](https://www.torproject.org/), and avoid logging into any of your personal accounts
+### Kimlik Doğrulama
+- Her bir hesabınız için uzun, güçlü ve benzersiz bir parola kullanın (bkz. [HowSecureIsMyPassword.net](https://howsecureismypassword.net))
+- Kimlik bilgilerini şifrelemek, saklamak ve doldurmak için [BitWarden](https://bitwarden.com) veya [KeePass](https://keepass.info) / [KeePassXC](https://keepassxc.org) gibi güvenli bir [şifre yöneticisi](https://github.com/Lissy93/awesome-privacy#password-managers) kullanın
+- Mümkün olan yerlerde 2 Faktörlü kimlik doğrulamayı etkinleştirin ve bir [kimlik doğrulayıcı uygulama](https://github.com/Lissy93/awesome-privacy#2-factor-authentication) veya [donanım belirteci](/6_Privacy_and-Security_Gadgets.md#fido-u2f-keys) kullanın
+- Çok faktörlü kimlik doğrulamayı etkinleştirdiğinizde, genellikle 2FA yönteminiz kaybolursa, bozulursa veya kullanılamaz hale gelirse kullanabileceğiniz birkaç kod verilir. Bunları kağıt üzerinde veya disk üzerinde güvenli bir yerde saklamalısınız (örneğin çevrimdışı depolamada veya şifrelenmiş bir dosya / sürücüde olduğu gibi).
+- İhlal uyarıları için kaydolun ([Firefox Monitor](https://monitor.firefox.com) veya [HaveIBeenPwned](https://haveibeenpwned.com) ile) ve ele geçirilen hesapların şifrelerini güncelleyin
 
 
-### Phone
-- Set a device PIN, ideally use a long passcode. If supported, configure fingerprint authentication, but avoid face unlock
-- Encrypt your device, in order to keep your data safe from physical access. To enable, for Android: `Settings --> Security --> Encryption`, or for iOS: `Settings --> TouchID & Passcode --> Data Protection`
-- Keep device up-to-date. System updates often contain patches for recently-discovered security vulnerabilities. You should install updates when prompted
-- Review application permissions. Don't grant access permissions to apps that do not need it. (For Android, see also [Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission&hl=en_US) - an app that allows you to grant temporary permissions)
-- Disable connectivity features that aren't being used, and 'forget' WiFi networks that you no longer need
-- Disable location tracking. By default, both Android and iOS logs your GPS location history. You can disable this, for Android: `Maps --> Settings --> Location History`, and iOS: `Settings --> Privacy --> Location Services --> System Services --> Places`. Be aware that third-party apps may still log your position, and that there are other methods of determining your location other than GPS (Cell tower, WiFi, Bluetooth etc)
-- Use an application firewall to block internet connectivity for apps that shouldn't need it. Such as [NetGuard](https://www.netguard.me/) (Android) or [Lockdown](https://apps.apple.com/in/app/lockdown-apps/id1469783711) (iOS)
-- Understand that apps contain trackers that collect, store and sometimes share your data. For Android, you could use [Exodus](https://exodus-privacy.eu.org/en/page/what/) to reveal which trackers your installed apps are using.
+### Tarayıcı
+- Gizliliğe Saygı Gösteren Bir Tarayıcı Kullanın, [Brave](https://brave.com) ve [Firefox](https://www.mozilla.org/en-US/exp/firefox/new) iyi seçeneklerdir. Varsayılan aramanızı izleme yapmayan bir motora ayarlayın, örneğin [DuckDuckGo](https://duckduckgo.com)
+- HTTPS olmayan bir web sitesine herhangi bir bilgi girmeyin (kilit simgesini arayın). Firefox, Chrome, Edge ve Safari artık entegre HTTPS güvenlik özelliklerine sahiptir; etkin olup olmadığını bilmiyorsanız, nereye bakacağınızı öğrenmek için bu [kılavuz](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere)'a göz atın.
+- [Privacy Badger](https://privacybadger.org) veya [uBlock](https://github.com/gorhill/uBlock) gibi bir uzantı kullanarak istilacı 3. taraf izleyicileri ve reklamları engelleyin
+- Tarayıcınızı güncel tutun, gizlilik ayarlarını keşfedin ve gereksiz eklentileri/uzantıları kaldırın
+- İzlemeyi azaltmak için gezintinizin farklı alanlarını (iş, sosyal, alışveriş vb.) ayırmak için bölümlere ayırmayı kullanmayı düşünün. Bu, [Firefox Containers](https://support.mozilla.org/en-US/kb/containers) ile veya ayrı tarayıcılar veya tarayıcı profilleri kullanarak yapılabilir
+- Tarayıcınızın şifrelerinizi kaydetmesine veya kişisel bilgilerinizi otomatik doldurmasına izin vermeyin (bunun yerine bir [şifre yöneticisi](https://github.com/Lissy93/awesome-privacy#password-managers) kullanın ve [tarayıcınızın kendi otomatik doldurmasını devre dışı bırakın](https://www.computerhope.com/issues/ch001377.htm))
+- Çerezlerinizi, oturum verilerinizi ve önbelleğinizi düzenli olarak temizleyin. Bunu otomatikleştirmek için [Cookie-Auto-Delete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) gibi bir uzantı kullanılabilir
+- Kimliğinize daha fazla veri bağlayabileceğinden tarayıcınızda oturum açmayın. İhtiyacınız varsa, açık kaynaklı bir [yer imi senkronizasyonu](https://github.com/Lissy93/awesome-privacy#browser-sync) uygulaması kullanabilirsiniz
+- Cihazınızın yaptığı izlenebilir CDN isteklerinin sayısını azaltmak için [Decentraleyes](https://decentraleyes.org) kullanmayı düşünün
+- Önemli bir sorun olmadığından emin olmak için [Panopticlick](https://panopticlick.eff.org) gibi bir araç kullanarak tarayıcınızı test edin. [BrowserLeaks](https://browserleaks.com) ve [Am I Unique](https://amiunique.org/fp) de web sitelerine hangi cihaz bilgilerini ifşa ettiğinizi keşfetmek için kullanışlıdır
+- Anonim gezinme için [The Tor Browser](https://www.torproject.org/) kullanın ve kişisel hesaplarınızda oturum açmaktan kaçının
 
 
-### Email
-It's important to protect your email account, as if a hacker gains access to it they will be able to pose as you, and reset the passwords for your other online accounts. One of the biggest threats to digital security is still phishing, and it can sometimes be incredibly convincing, so remain vigilant, and understand [how to spot malicious emails](https://heimdalsecurity.com/blog/abcs-detecting-preventing-phishing), and avoid publicly sharing your email address
-
-- Use a long, strong and unique password and enable 2FA
-- Consider switching to a secure and encrypted mail provider using, such as [ProtonMail](https://protonmail.com) or [Tutanota](https://tutanota.com)
-- Use email aliasing to protect your real mail address, with a provider such as [Anonaddy](https://anonaddy.com) or [SimpleLogin](https://simplelogin.io/?slref=bridsqrgvrnavso). This allows you to keep your real address private, yet still have all messages land in your primary inbox
-- Disable automatic loading of remote content, as it is often used for detailed tracking but can also be malicious
-- Using a custom domain, will mean you will not lose access to your email address if your current provider disappears. If you need to back up messages, use a secure IMAP client [Thunderbird](https://www.thunderbird.net)
-
-
-### Secure Messaging
-- Use a [secure messaging app](https://github.com/Lissy93/awesome-privacy#encrypted-messaging) that is both fully open source and end-to-end encrypted with perfect forward secrecy (e.g. [Signal](https://www.signal.org/))
-- Ensure that both your device, and that of your recipient(s) is secure (free from malware, encrypted and has a strong password)
-- Disable cloud services, such as web app companion or cloud backup feature, both of which increases attack surface
-- Strip meta data from media before sharing, as this can lead to unintentionally revealing more data than you intended
-- Verify your recipient is who they claim to be, either physically or cryptographically by using an app that offers contact verification
-- Avoid SMS, but if you must use it then encrypt your messages, e.g. using the [Silence](https://silence.im/) app
-- Opt for a stable and actively maintained messaging platform, that is backed by reputable developers and have a transparent revenue model or are able to account for where funding has originated from. It should ideally be based in a friendly jurisdiction and have undergone an independent security audit. 
-- In some situations, it may be appropriate to use an app that supports disappearing messages, and/ or allows for anonymous sign up (without any PII: phone number, email address etc). A [decentralized platform](https://github.com/Lissy93/awesome-privacy#p2p-messaging) can offer additional security and privacy benefits in some circumstances, as there is no single entity governing it, e.g. [Matrix](https://matrix.org/), [Session](https://getsession.org/), [Tox](https://tox.chat/) or [Briar](https://briarproject.org/)
+### Telefon
+- Bir cihaz PIN kodu belirleyin, ideal olarak uzun bir parola kullanın. Destekleniyorsa, parmak izi kimlik doğrulamasını yapılandırın, ancak yüz kilidini açmaktan kaçının
+- Verilerinizi fiziksel erişime karşı güvende tutmak için cihazınızı şifreleyin. Etkinleştirmek için, Android için: `Ayarlar --> Güvenlik --> Şifreleme` veya iOS için: `Ayarlar --> TouchID ve Parola --> Veri Koruma`
+- Cihazı güncel tutun. Sistem güncellemeleri genellikle yakın zamanda keşfedilen güvenlik açıkları için yamalar içerir. İstendiğinde güncellemeleri yüklemelisiniz
+- Uygulama izinlerini gözden geçirin. İhtiyacı olmayan uygulamalara erişim izni vermeyin. (Android için, geçici izinler vermenizi sağlayan bir uygulama olan [Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission&hl=en_US)'a da bakın)
+- Kullanılmayan bağlantı özelliklerini devre dışı bırakın ve artık ihtiyaç duymadığınız WiFi ağlarını 'unutun'
+- Konum izlemeyi devre dışı bırakın. Varsayılan olarak, hem Android hem de iOS GPS konum geçmişinizi kaydeder. Bunu Android için: `Haritalar --> Ayarlar --> Konum Geçmişi` ve iOS için: `Ayarlar --> Gizlilik --> Konum Servisleri --> Sistem Servisleri --> Yerler` seçeneklerinden devre dışı bırakabilirsiniz. Üçüncü taraf uygulamaların konumunuzu kaydetmeye devam edebileceğini ve konumunuzu belirlemek için GPS dışında başka yöntemler de olduğunu unutmayın (Baz istasyonu, WiFi, Bluetooth vb.)
+- İhtiyaç duymaması gereken uygulamaların internet bağlantısını engellemek için bir uygulama güvenlik duvarı kullanın. [NetGuard](https://www.netguard.me/) (Android) veya [Lockdown](https://apps.apple.com/in/app/lockdown-apps/id1469783711) (iOS) gibi
+- Uygulamaların verilerinizi toplayan, depolayan ve bazen paylaşan izleyiciler içerdiğini anlayın. Android için, yüklü uygulamalarınızın hangi izleyicileri kullandığını ortaya çıkarmak için [Exodus](https://exodus-privacy.eu.org/en/page/what/) kullanabilirsiniz.
 
 
-### Networking
-- Use a reputable VPN to keep your IP protected and reduce the amount of browsing data your ISP can log, but understand their [limitations](5_Privacy_Respecting_Software.md#word-of-warning-4).  Good options include [ProtonVPN](https://protonvpn.com) and [Mullvad](https://mullvad.net), see [thatoneprivacysite.net](https://thatoneprivacysite.net/) for detailed comparisons
-- Change your routers default password. Anyone connected to your WiFi is able to listen to network traffic, so in order to prevent people you don't know from connecting, use WPA2 and set a strong password.
-- Use a [secure DNS](https://github.com/Lissy93/awesome-privacy#dns) provider, (such as [Cloudflare's 1.1.1.1](https://1.1.1.1/dns/)) to reduce tracking. Ideally configure this on your router, but if that's not possible, then it can be done on each device. 
+### E-posta
+E-posta hesabınızı korumanız önemlidir, çünkü bir bilgisayar korsanı bu hesaba erişim sağlarsa sizin gibi davranabilir ve diğer çevrimiçi hesaplarınızın şifrelerini sıfırlayabilir. Dijital güvenliğe yönelik en büyük tehditlerden biri hala kimlik avıdır ve bazen inanılmaz derecede ikna edici olabilir, bu nedenle tetikte olun ve [kötü niyetli e-postaların nasıl tespit edileceğini](https://heimdalsecurity.com/blog/abcs-detecting-preventing-phishing) anlayın ve e-posta adresinizi herkese açık olarak paylaşmaktan kaçının
+
+- Uzun, güçlü ve benzersiz bir parola kullanın ve 2FA'yı etkinleştirin
+- [ProtonMail](https://protonmail.com) veya [Tutanota](https://tutanota.com) gibi güvenli ve şifreli bir posta sağlayıcısına geçmeyi düşünün
+- Gerçek posta adresinizi korumak için [Anonaddy](https://anonaddy.com) veya [SimpleLogin](https://simplelogin.io/?slref=bridsqrgvrnavso) gibi bir sağlayıcı ile e-posta takma adı kullanın. Bu, gerçek adresinizi gizli tutmanıza, ancak yine de tüm iletilerin birincil gelen kutunuza düşmesine olanak tanır
+- Genellikle ayrıntılı izleme için kullanıldığından ancak kötü amaçlı da olabileceğinden, uzak içeriğin otomatik olarak yüklenmesini devre dışı bırakın
+- Özel bir alan adı kullanmak, mevcut sağlayıcınızın ortadan kalkması durumunda e-posta adresinize erişiminizi kaybetmeyeceğiniz anlamına gelir. Mesajları yedeklemeniz gerekiyorsa, güvenli bir IMAP istemcisi [Thunderbird](https://www.thunderbird.net) kullanın
 
 
-**📜 See More**: [The Complete Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist/blob/master/README.md)
+### Güvenli Mesajlaşma
+- Hem tamamen açık kaynaklı hem de mükemmel ileri gizlilik ile uçtan uca şifrelenmiş bir [güvenli mesajlaşma uygulaması](https://github.com/Lissy93/awesome-privacy#encrypted-messaging) kullanın (örneğin [Signal](https://www.signal.org/))
+- Hem kendi cihazınızın hem de alıcı(lar)ınızın cihazının güvenli olduğundan (kötü amaçlı yazılım içermediğinden, şifreli olduğundan ve güçlü bir parolaya sahip olduğundan) emin olun
+- Her ikisi de saldırı yüzeyini artıran web uygulaması eşlikçisi veya bulut yedekleme özelliği gibi bulut hizmetlerini devre dışı bırakın
+- Paylaşmadan önce meta verileri medyadan çıkarın, çünkü bu istemeden amaçladığınızdan daha fazla verinin açığa çıkmasına neden olabilir
+- Kişi doğrulaması sunan bir uygulama kullanarak alıcınızın iddia ettiği kişi olduğunu fiziksel olarak veya kriptografik olarak doğrulayın
+- SMS'ten kaçının, ancak kullanmanız gerekiyorsa mesajlarınızı şifreleyin, örneğin [Silence](https://silence.im/) uygulamasını kullanarak
+- Saygın geliştiriciler tarafından desteklenen ve şeffaf bir gelir modeline sahip olan veya finansmanın nereden geldiğini açıklayabilen istikrarlı ve aktif olarak sürdürülen bir mesajlaşma platformunu tercih edin. İdeal olarak dost bir yargı bölgesinde yer almalı ve bağımsız bir güvenlik denetiminden geçmelidir. 
+- Bazı durumlarda, kaybolan mesajları destekleyen ve/veya anonim kaydolmaya izin veren (herhangi bir PII olmadan: telefon numarası, e-posta adresi vb.) bir uygulama kullanmak uygun olabilir. Merkezi olmayan bir platform](https://github.com/Lissy93/awesome-privacy#p2p-messaging) bazı durumlarda ek güvenlik ve gizlilik avantajları sunabilir, çünkü onu yöneten tek bir varlık yoktur, örneğin [Matrix](https://matrix.org/), [Session](https://getsession.org/), [Tox](https://tox.chat/) veya [Briar](https://briarproject.org/)
 
-----
+
+### Ağ İletişimi
+- IP'nizi korumak ve İSS'nizin kaydedebileceği tarama verilerinin miktarını azaltmak için saygın bir VPN kullanın, ancak [sınırlamalarını](5_Privacy_Respecting_Software.md#word-of-warning-4) anlayın.  İyi seçenekler arasında [ProtonVPN](https://protonvpn.com) ve [Mullvad](https://mullvad.net) bulunmaktadır, ayrıntılı karşılaştırmalar için [thatoneprivacysite.net](https://thatoneprivacysite.net/) adresine bakın
+- Yönlendiricilerinizin varsayılan şifresini değiştirin. WiFi ağınıza bağlanan herkes ağ trafiğini dinleyebilir, bu nedenle tanımadığınız kişilerin bağlanmasını önlemek için WPA2 kullanın ve güçlü bir şifre belirleyin.
+- İzlemeyi azaltmak için bir [güvenli DNS](https://github.com/Lissy93/awesome-privacy#dns) sağlayıcısı kullanın (örneğin [Cloudflare's 1.1.1.1](https://1.1.1.1/dns/)). İdeal olarak bunu yönlendiricinizde yapılandırın, ancak bu mümkün değilse, her cihazda yapılabilir. 
 
 
-## OPEN-SOURCE, PRIVACY-FOCUSED SOFTWARE
-Switch to alternative open-source, privacy-respecting apps and services, which won't collect your data, track you or show targetted ads.
-
-#### Security
-- Password Managers: [BitWarden] | [1Password] *(proprietary)* | [KeePassXC] *(offline)* | [LessPass] *(stateless)*
-- 2-Factor Authentication: [Aegis] *(Android)* | [Authenticator] *(iOS)* | [AndOTP] *(Android)*
-- File Encryption: [VeraCrypt] | [Cryptomator] *(for cloud)*
-- Encrypted Messaging: [Signal] | [KeyBase] *(for groups/ communities)*
-- Encrypted Email: [ProtonMail] | [MailFence] | [Tutanota] | (+ also [33Mail] | [anonaddy] for aliasing)
-- Private Browsers: [Brave Browser] | [Firefox] *with [some tweaks](https://restoreprivacy.com/firefox-privacy/)* | [Tor]
-- Non-Tracking Search Engines: [DuckDuckGo] | [StartPage] | [SearX] *(self-hosted)* | [Qwant]
-- VPN: [Mullvad] | [ProtonVPN]  | [Windscribe] | [IVPN] *(better still, use [Tor] for anonimity)*. See also [VPN Warning Note]
-- App Firewall: [NetGuard] (Android) | [Lockdown] (iOS) | [OpenSnitch] (Linux) | [LuLu] (MacOS)
-
-#### Browser Extensions
-- [Privacy Badger] - Blocks trackers.
-- [HTTPS Everywhere] - Upgrades requests to HTTPS.
-- [uBlock Origin] - Blocks ads, trackers and malwares.
-- [ScriptSafe] - Block execution of certain scripts.
-- [WebRTC Leak Prevent] - Prevents IP leaks.
-- [Vanilla Cookie Manager] - Auto-removes unwanted cookies.
-- [Privacy Essentials] - Shows which sites are insecure
-
-#### Mobile Apps
-- [Exodus] - Shows which trackers are on your device.
-- [Orbot]- System-wide Tor Proxy.
-- [Island] - Sand-box environment for apps.
-- [NetGuard] - Controll which apps have network access.
-- [Bouncer] - Grant temporary permissions.
-- [Greenify] - Control which apps can run in the background.
-- [1.1.1.1] - Use CloudFlare's DNS over HTTPS.
-- [Fing App] - Monitor your home WiFi network for intruders
-
-#### Online Tools
-- [εxodus] - Shows which trackers an app has.
-- [';--have i been pwned?] - Check if your details have been exposed in a breach.
-- [EXIF Remover] - Removes meta data from image or file.
-- [Redirect Detective] - Shows where link redirects to.
-- [Virus Total] - Scans file or URL for malware.
-- [Panopticlick], [Browser Leak Test] and [IP Leak Test] - Check for system and browser leaks
-
-#### Productivity Tools
-- File Storage: [NextCloud].
-- File Sync: [Syncthing].
-- File Drop: [FilePizza].
-- Notes: [Standard Notes], [Cryptee], [Joplin].
-- Blogging: [Write Freely].
-- Calendar/ Contacts Sync: [ETE Sync]
-
-📜 **See More**: [Complete List of Privacy-Respecting Sofware](https://github.com/Lissy93/awesome-privacy)
+**📜 Daha Fazlasına Bakın**: [Eksiksiz Kişisel Güvenlik Kontrol Listesi](https://github.com/Lissy93/personal-security-checklist/blob/master/README.md)
 
 ----
 
-## SECURITY HARDWARE
 
-There are also some gadgets that can help improve your physical and digital security.
+## AÇIK KAYNAKLI, GIZLILIK ODAKLI YAZILIM
+Verilerinizi toplamayan, sizi takip etmeyen veya hedefli reklamlar göstermeyen alternatif açık kaynaklı, gizliliğe saygılı uygulama ve hizmetlere geçin.
 
-- **Blockers & Shields**: [PortaPow] - USB Data Blocker | [Mic Block] - Physically disables microphone | [Silent-Pocket] - Signal-blocking faraday pouches | [Lindy] - Physical port blockers | [RFID Shields] | [Webcam Covers] | [Privacy Screen]
-- **Crypto Wallets**: [Trezor] - Hardware wallet | [CryptoSteel] - Indestructible steel crypto wallet
-- **FIDO U2F Keys**: [Solo Key] | [Nitro Key] | [Librem Key]
-- **Data Blockers**: [PortaPow] - Blocks data to protect against malware upload attacks, enables FastCharge.
-- **Hardware-encrypted storage**:  [iStorage]- PIN-authenticated 256-bit hardware encrypted storage | [Encrypted Drive Enclosure]
-- **Networking**: [Anonabox] - Plug-and-play Tor router | [FingBox] - Easy home network automated security monitoring
-- **Paranoid Gadgets!** [Orwl]- Self-destroying PC | [Hunter-Cat]- Card-skim detector | [Adversarial Fashion]- Anti-facial-recognition clothing | [DSTIKE Deauth Detector] - Detect deauth attacks, from [Spacehuhn] | [Reflectacles]- Anti-surveillance glasses | [Armourcard]- Active RFID jamming | [Bug-Detector]- Check for RF-enabled eavesdropping equipment | [Ultrasonic Microphone Jammer] - Emits signals that's silent to humans, but interfere with recording equipment.
+#### Güvenlik
+- Parola Yöneticileri: [BitWarden] | [1Password] *(özel)* | [KeePassXC] *(çevrimdışı)* | [LessPass] *(durum bilgisi olmayan)*
+- 2 Faktörlü Kimlik Doğrulama: [Aegis] *(Android)* | [Authenticator] *(iOS)* | [AndOTP] *(Android)*
+- Dosya Şifreleme: [VeraCrypt] | [Cryptomator] *(bulut için)*
+- Şifreli Mesajlaşma: [Signal] | [KeyBase] *(gruplar/topluluklar için)*
+- Şifreli E-posta: [ProtonMail] | [MailFence] | [Tutanota] | (+ ayrıca takma ad için [33Mail] | [anonaddy])
+- Özel Tarayıcılar: [Brave Browser] | [Firefox] * [bazı tweaks](https://restoreprivacy.com/firefox-privacy/)* ile | [Tor]
+- İzleme Yapmayan Arama Motorları: [DuckDuckGo] | [StartPage] | [SearX] *(self-hosted)* | [Qwant]
+- VPN: [Mullvad] | [ProtonVPN] | [Windscribe] | [IVPN] *(daha iyisi, anonimlik için [Tor] kullanın)*. Ayrıca bakınız [VPN Uyarı Notu]
+- Uygulama Güvenlik Duvarı: [NetGuard] (Android) | [Lockdown] (iOS) | [OpenSnitch] (Linux) | [LuLu] (MacOS)
 
+#### Tarayıcı Uzantıları
+- Privacy Badger] - İzleyicileri engeller.
+- [HTTPS Everywhere] - İstekleri HTTPS'ye yükseltir.
+- [uBlock Origin] - Reklamları, izleyicileri ve kötü amaçlı yazılımları engeller.
+- [ScriptSafe] - Belirli komut dosyalarının yürütülmesini engeller.
+- [WebRTC Leak Prevent] - IP sızıntılarını önler.
+- Vanilla Cookie Manager] - İstenmeyen çerezleri otomatik olarak kaldırır.
+- [Privacy Essentials] - Hangi sitelerin güvensiz olduğunu gösterir
 
-There's no need to spend money - Most of these products can be made at home with open source software. Here's a list of [DIY Security Gadgets](/6_Privacy_and-Security_Gadgets.md#diy-security-products).
+#### Mobil Uygulamalar
+- Exodus] - Cihazınızda hangi izleyicilerin olduğunu gösterir.
+- [Orbot]- Sistem genelinde Tor Proxy.
+- Island] - Uygulamalar için kum kutusu ortamı.
+- NetGuard] - Hangi uygulamaların ağ erişimine sahip olduğunu kontrol eder.
+- Bouncer] - Geçici izinler verin.
+- Greenify] - Hangi uygulamaların arka planda çalışabileceğini kontrol edin.
+- 1.1.1.1] - CloudFlare'in HTTPS üzerinden DNS'sini kullanın.
+- [Fing App] - Ev WiFi ağınızı davetsiz misafirlere karşı izleyin
 
-📜 **See More**: [Privacy and Security Gadgets](/6_Privacy_and-Security_Gadgets.md)
+#### Çevrimiçi Araçlar
+- [εxodus] - Bir uygulamanın hangi izleyicilere sahip olduğunu gösterir.
+- [';--have i been pwned?] - Bilgilerinizin bir ihlalde açığa çıkıp çıkmadığını kontrol edin.
+- EXIF Remover] - Görüntü veya dosyadan meta verileri kaldırır.
+- Yönlendirme Dedektifi] - Bağlantının nereye yönlendirildiğini gösterir.
+- Virus Total] - Dosya veya URL'yi kötü amaçlı yazılımlara karşı tarar.
+- Panopticlick], [Tarayıcı Sızıntı Testi] ve [IP Sızıntı Testi] - Sistem ve tarayıcı sızıntılarını kontrol edin
+
+#### Üretkenlik Araçları
+- Dosya Depolama: [NextCloud].
+- Dosya Senkronizasyonu: [Syncthing].
+- Dosya Bırakma: [FilePizza].
+- Notlar: [Standart Notlar], [Cryptee], [Joplin].
+- Bloglama: [Özgürce Yaz].
+- Takvim / Kişiler Senkronizasyonu: [ETE Sync]
+
+📜 **Daha Fazlasına Bakın**: [Gizliliğe Saygı Duyan Yazılımların Tam Listesi](https://github.com/Lissy93/awesome-privacy)
 
 ----
 
-*Thanks for visiting, hope you found something useful here :) Contributions are welcome, and much appreciated - to propose an edit [raise an issue](https://github.com/Lissy93/personal-security-checklist/issues/new/choose), or [open a PR](https://github.com/Lissy93/personal-security-checklist/pull/new/master). See: [`CONTRIBUTING.md`](/.github/CONTRIBUTING.md).*
+## DONANIM GÜVENLİĞİ
+
+Fiziksel ve dijital güvenliğinizi artırmanıza yardımcı olabilecek bazı araçlar da vardır.
+
+- **Engelleyiciler ve Kalkanlar**: [PortaPow] - USB Veri Engelleyici | [Mic-Block] - Mikrofonu fiziksel olarak devre dışı bırakır | [Silent-Pocket] - Sinyal engelleyici faraday poşetleri | [Lindy] - Fiziksel port engelleyiciler | [RFID Kalkanları] | [Webcam Kapakları] | [Gizlilik Ekranı]
+- **Kripto Cüzdanlar**: [Trezor] - Donanım cüzdanı | [CryptoSteel] - Yok edilemez çelik kripto cüzdanı
+- **FIDO U2F Anahtarları**: [Solo Anahtar] | [Nitro Anahtar] | [Librem Anahtar]
+- Veri Engelleyiciler**: [PortaPow] - Kötü amaçlı yazılım yükleme saldırılarına karşı korumak için verileri engeller, FastCharge'ı etkinleştirir.
+- **Donanım şifreli depolama**:  [iStorage]- PIN doğrulamalı 256 bit donanım şifreli depolama | [Şifreli Sürücü Muhafazası]
+- **Ağ İletişimi**: [Anonabox] - Tak ve çalıştır Tor yönlendirici | [FingBox] - Kolay ev ağı otomatik güvenlik izleme
+- **Paranoid Aletler** [Orwl]- Kendi kendini yok eden bilgisayar | [Hunter-Cat]- Kart-kaymağı dedektörü | [Adversarial Fashion]- Yüz tanıma önleyici giysi | [DSTIKE Deauth Detector] - Deauth saldırılarını tespit eder, Spacehuhn]'dan | [Reflectacles]- Gözetleme önleyici gözlük | [Armourcard]- Aktif RFID karıştırma | [Bug-Detector]- RF özellikli gizli dinleme ekipmanı olup olmadığını kontrol edin | [Ultrasonic Microphone Jammer] - İnsanlar için sessiz olan ancak kayıt ekipmanına müdahale eden sinyaller yayar.
+
+
+Para harcamanıza gerek yok - Bu ürünlerin çoğu açık kaynak kodlu yazılımlarla evde yapılabilir. İşte [DIY Security Gadgets](/6_Privacy_and-Security_Gadgets.md#diy-security-products) listesi.
+
+📜 **Daha Fazlasına Bakın**: [Gizlilik ve Güvenlik Araçları](/6_Privacy_and-Security_Gadgets.md)
+
+----
+
+*Ziyaretiniz için teşekkürler, umarım burada faydalı bir şeyler bulmuşsunuzdur :) Katkılar memnuniyetle karşılanır ve çok takdir edilir - bir düzenleme önermek için [raise an issue](https://github.com/Lissy93/personal-security-checklist/issues/new/choose) veya [open a PR](https://github.com/Lissy93/personal-security-checklist/pull/new/master). Bakınız: [`CONTRIBUTING.md`](/.github/CONTRIBUTING.md).*
 
 ----
 
 Found this helpful? Consider sharing, to help others improve their digital security 😇
 
-[![Share on Twitter](https://img.shields.io/badge/Share-Twitter-17a2f3?style=flat-square&logo=Twitter)](http://twitter.com/share?text=Check%20out%20the%20Personal%20Cyber%20Security%20Checklist-%20an%20ultimate%20list%20of%20tips%20for%20protecting%20your%20digital%20security%20and%20privacy%20in%202020%2C%20with%20%40Lissy_Sykes%20%F0%9F%94%90%20%20%F0%9F%9A%80&url=https://github.com/Lissy93/personal-security-checklist)
-[![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn-0077b5?style=flat-square&logo=LinkedIn)](
-http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Lissy93/personal-security-checklist&title=The%20Ultimate%20Personal%20Cyber%20Security%20Checklist&summary=%F0%9F%94%92%20A%20curated%20list%20of%20100%2B%20tips%20for%20protecting%20digital%20security%20and%20privacy%20in%202020&source=https://github.com/Lissy93)
-[![Share on Facebook](https://img.shields.io/badge/Share-Facebook-4267b2?style=flat-square&logo=Facebook)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/Lissy93/personal-security-checklist&title=The%20Ultimate%20Personal%20Cyber%20Security%20Checklist&summary=%F0%9F%94%92%20A%20curated%20list%20of%20100%2B%20tips%20for%20protecting%20digital%20security%20and%20privacy%20in%202020&source=)
-[![Share on Mastodon](https://img.shields.io/badge/Share-Mastodon-56a7e1?style=flat-square&logo=Mastodon)](https://mastodon.social/web/statuses/new?text=Check%20out%20the%20Ultimate%20Personal%20Cyber%20Security%20Checklist%20by%20%40Lissy93%20on%20%23GitHub%20%20%F0%9F%94%90%20%E2%9C%A8)
-
+[![Twitter'da paylaşın](https://img.shields.io/badge/Share-Twitter-17a2f3?style=for-the-badge&logo=Twitter)](http://twitter.com/share?text=Check%20out%20the%20Personal%20Cyber%20Security%20Checklist-%20an%20ultimate%20list%20of%20tips%20for%20protecting%20your%20digital%20security%20and%20privacy%20in%202020%2C%20with%20%40Lissy_Sykes%20%F0%9F%94%90%20%20%F0%9F%9A%80&url=https://github.com/ClimpyX/siber-guvenlik-checklist)
+[![LinkedIn'de paylaşın](https://img.shields.io/badge/Share-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn)](
+http://www.linkedin.com/shareArticle?mini=true&url=hhttps://github.com/ClimpyX/siber-guvenlik-checklist&title=The%20Ultimate%20Personal%20Cyber%20Security%20Checklist&summary=%F0%9F%94%92%20A%20curated%20list%20of%20100%2B%20tips%20for%20protecting%20digital%20security%20and%20privacy%20in%202020&source=https://github.com/ClimpyX/siber-guvenlik-checklist)
+[![Facebook'da paylaşın](https://img.shields.io/badge/Share-Facebook-4267b2?style=for-the-badge&logo=Facebook)](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/ClimpyX/siber-guvenlik-checklist&title=The%20Ultimate%20Personal%20Cyber%20Security%20Checklist&summary=%F0%9F%94%92%20A%20curated%20list%20of%20100%2B%20tips%20for%20protecting%20digital%20security%20and%20privacy%20in%202020&source=)
+[![Mastodon'da paylaşın](https://img.shields.io/badge/Share-Mastodon-56a7e1?style=for-the-badge&logo=Mastodon)](https://mastodon.social/web/statuses/new?text=Check%20out%20the%20Ultimate%20Personal%20Cyber%20Security%20Checklist%20by%20%40Lissy93%20on%20%23GitHub%20%20%F0%9F%94%90%20%E2%9C%A8)
 
 
 
@@ -169,7 +168,7 @@ http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Lissy93/pe
 </a>
 
 
-[//]: # (SECURITY SOFTWARE LINKS)
+[//]: # (GUVENLIK YAZILIMLARINA AIT LINKLER)
 [BitWarden]: https://bitwarden.com
 [1Password]: https://1password.com
 [KeePassXC]: https://keepassxc.org
@@ -206,7 +205,7 @@ http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Lissy93/pe
 
 [VPN Warning Note]: https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md#word-of-warning-8
 
-[//]: # (PRODUCTIVITY SOFTWARE LINKS)
+[//]: # (ÜRETKENLIK YAZILIMI BAĞLANTILARI)
 [NextCloud]: https://nextcloud.com
 [Standard Notes]: https://standardnotes.org/?s=chelvq36
 [Cryptee]: https://crypt.ee
@@ -216,7 +215,7 @@ http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Lissy93/pe
 [Syncthing]: https://syncthing.net
 [Write Freely]: https://writefreely.org
 
-[//]: # (BROWSER EXTENSION LINKS)
+[//]: # (TARAYICI UZANTISI BAĞLANTILARI)
 [Privacy Badger]: https://www.eff.org/privacybadger
 [HTTPS Everywhere]: https://eff.org/https-everywhere
 [uBlock Origin]: https://github.com/gorhill/uBlock
@@ -225,7 +224,7 @@ http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Lissy93/pe
 [Vanilla Cookie Manager]: https://github.com/laktak/vanilla-chrome
 [Privacy Essentials]: https://duckduckgo.com/app
 
-[//]: # (ONLINE SECURITY TOOLS)
+[//]: # (ÇEVRIMIÇI GÜVENLIK ARAÇLARI)
 [';--have i been pwned?]: https://haveibeenpwned.com
 [εxodus]: https://reports.exodus-privacy.eu.org
 [Panopticlick]: https://panopticlick.eff.org
@@ -235,7 +234,7 @@ http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Lissy93/pe
 [Redirect Detective]: https://redirectdetective.com
 [Virus Total]: https://www.virustotal.com
 
-[//]: # (ANDROID APP LINKS)
+[//]: # (ANDROID UYGULAMA BAĞLANTILARI)
 [Island]: https://play.google.com/store/apps/details?id=com.oasisfeng.island
 [Orbot]: https://play.google.com/store/apps/details?id=org.torproject.android
 [Orbot]: https://play.google.com/store/apps/details?id=org.torproject.android
@@ -265,7 +264,7 @@ http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Lissy93/pe
 [Oasis Feng]: https://play.google.com/store/apps/dev?id=7664242523989527886
 [Marcel Bokhorst]: https://play.google.com/store/apps/dev?id=8420080860664580239
 
-[//]: # (SECURITY HARDWARE LINKS)
+[//]: # (GÜVENLIK DONANIM BAĞLANTILARI)
 [Encrypted Drive Enclosure]: https://www.startech.com/HDD/Enclosures/encrypted-sata-enclosure-2-5in-hdd-ssd-usb-3~S2510BU33PW
 [iStorage]: https://istorage-uk.com
 [PortaPow]: https://portablepowersupplies.co.uk/product/usb-data-blocker
