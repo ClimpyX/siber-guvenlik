@@ -131,7 +131,7 @@ Verilerinizi toplamayan, sizi takip etmeyen veya hedefli reklamlar göstermeyen 
 
 Fiziksel ve dijital güvenliğinizi artırmanıza yardımcı olabilecek bazı araçlar da vardır.
 
-- **Engelleyiciler ve Kalkanlar**: [PortaPow] - USB Veri Engelleyici | [Mic-Block] - Mikrofonu fiziksel olarak devre dışı bırakır | [Silent-Pocket] - Sinyal engelleyici faraday poşetleri | [Lindy] - Fiziksel port engelleyiciler | [RFID Kalkanları] | [Webcam Kapakları] | [Gizlilik Ekranı]
+- **Engelleyiciler ve Kalkanlar**: [PortaPow] - USB Veri Engelleyici | [MicBlock] - Mikrofonu fiziksel olarak devre dışı bırakır | [Silent-Pocket] - Sinyal engelleyici faraday poşetleri | [Lindy] - Fiziksel port engelleyiciler | [RFID Kalkanları] | [Webcam Kapakları] | [Gizlilik Ekranı]
 - **Kripto Cüzdanlar**: [Trezor] - Donanım cüzdanı | [CryptoSteel] - Yok edilemez çelik kripto cüzdanı
 - **FIDO U2F Anahtarları**: [Solo Anahtar] | [Nitro Anahtar] | [Librem Anahtar]
 - Veri Engelleyiciler**: [PortaPow] - Kötü amaçlı yazılım yükleme saldırılarına karşı korumak için verileri engeller, FastCharge'ı etkinleştirir.
@@ -269,7 +269,8 @@ http://www.linkedin.com/shareArticle?mini=true&url=hhttps://github.com/ClimpyX/s
 [iStorage]: https://istorage-uk.com
 [PortaPow]: https://portablepowersupplies.co.uk/product/usb-data-blocker
 [Lindy]: https://lindy.com/en/technology/port-blockers
-[Mic Block]: https://www.aliexpress.com/item/4000542324471.html
+[
+]: https://www.aliexpress.com/item/4000542324471.html
 [RFID Shields]: https://www.aliexpress.com/item/32976382478.html
 [Webcam Covers]: https://www.aliexpress.com/item/4000393683866.html
 [Privacy Screen]: https://www.aliexpress.com/item/32906889317.html
