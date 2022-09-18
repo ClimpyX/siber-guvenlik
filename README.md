@@ -509,7 +509,7 @@ Birisi sizi, cihazlarınızı ve verilerinizi fiziksel olarak tehlikeye atabiliy
 
 Bu projenin devam eden gelişimini desteklemeye yardımcı olun 💖
 
-[![Lissy93 'ye github da destekleyin](https://img.shields.io/badge/Sponsor_on_GitHub-Lissy93-%23ff4dda?style=for-the-badge&logo=githubsponsors&logoColor=ff4dda)](https://github.com/sponsors/Lissy93)
+[![ClimpyX 'e github da destekleyin](https://img.shields.io/badge/Sponsor_on_GitHub-ClimpyX-%23ff4dda?style=for-the-badge&logo=githubsponsors&logoColor=ff4dda)](https://github.com/sponsors/ClimpyX)
 
 ----
 
