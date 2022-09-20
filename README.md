@@ -20,7 +20,7 @@
 [<img src="https://i.ibb.co/ZftcgJq/8-computers-36x36.png" width="28" height="28" /> Bilgisayarlar](#bilgisayarlar)<br>
 [<img src="https://i.ibb.co/b2S9372/9-smart-home-36x36.png" width="28" height="28" /> Akıllı Ev](#akıllı-ev)<br>
 [<img src="https://i.ibb.co/4JTqL5y/12-finance-36x36.png" width="28" height="28" /> Finans](#finans)<br>
-[<img src="https://i.ibb.co/KVPV1Lk/10-human-36x36.png" width="28" height="28" /> İnsani Yön](#insani-yön)<br>
+[<img src="https://i.ibb.co/KVPV1Lk/10-human-36x36.png" width="28" height="28" /> İnsani Yön](#İnsani-yön)<br>
 [<img src="https://i.ibb.co/9NbhBww/11-physical-36x36.png" width="28" height="28" /> Fiziksel Güvenlik](#fiziksel-güvenlik)<br>
 
 Çok mu uzun? 🦒 Bunun yerine [TLDR versiyon](/2_TLDR_Short_List.md) 'a göz atın.
