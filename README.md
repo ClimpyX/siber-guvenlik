@@ -33,7 +33,7 @@ Bu repo'nun benzeri için: [codeberg.org/alicia/personal-security-checklist](htt
 
 ## Kimlik Doğrulama
 
-Bildirilen veri ihlallerinin çoğu, zayıf, varsayılan veya çalınmış parolaların kullanılmasından kaynaklanır ([bu Verizon raporuna göre](http://www.verizonenterprise.com/resources/reports/rp_dbir-2016-executive-summary_xg_en.pdf)).
+Bildirilen veri ihlallerinin çoğu, zayıf, varsayılan veya çalınmış parolaların kullanılmasından kaynaklanır ([Verizon raporuna göre](http://www.verizonenterprise.com/resources/reports/rp_dbir-2016-executive-summary_xg_en.pdf)).
 
 Uzun, güçlü ve benzersiz şifreler kullanın, bunları güvenli bir şifre yöneticisinde tutun, 2 faktörlü kimlik doğrulamayı etkinleştirin, veri sızıntılarını takip edin ve hesaplarınıza giriş yaparken dikkatli olun.
 
