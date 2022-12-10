@@ -16,7 +16,7 @@
 [<img src="https://i.ibb.co/DrWJBT9/13-messaging-36x36.png" width="28" height="28" /> Güvenli Mesajlaşma](#güvenli-mesajlaşma)<br>
 [<img src="https://i.ibb.co/GFYyXMd/6-social-media-36x36.png" width="28" height="28" /> Sosyal Medya](#sosyal-medya)<br>
 [<img src="https://i.ibb.co/0VTZQpH/3-networking-36x36.png" width="28" height="28" /> Ağlar](#ağlar)<br>
-[<img src="https://i.ibb.co/F3WwqsV/7-phones-36x36.png" width="28" height="28" /> Cep Telefonları](#cep-telefonları)<br>
+[<img src="https://i.ibb.co/F3WwqsV/7-phones-36x36.png" width="28" height="28" /> Akıllı Telefonlar](#akıllı-telefonlar)<br>
 [<img src="https://i.ibb.co/ZftcgJq/8-computers-36x36.png" width="28" height="28" /> Bilgisayarlar](#bilgisayarlar)<br>
 [<img src="https://i.ibb.co/b2S9372/9-smart-home-36x36.png" width="28" height="28" /> Akıllı Ev](#akıllı-ev)<br>
 [<img src="https://i.ibb.co/4JTqL5y/12-finance-36x36.png" width="28" height="28" /> Finans](#finans)<br>
@@ -259,7 +259,7 @@ Bu bölüm, yönlendiricinizi yapılandırmak ve bir VPN kurmak dahil olmak üze
 - [Kendinden Barındırılan Ağ Güvenlik Araçları](#self-hosted-network-security)
 
 
-## Cep Telefonları
+## Akıllı Telefonlar
 
 Akıllı telefonlar hayatın pek çok alanında devrim yarattı ve dünyayı parmaklarımızın ucuna getirdi. Birçoğumuz için akıllı telefonlar birincil iletişim, eğlence ve bilgiye erişim aracımız. Ancak her ne kadar kolaylığı yepyeni bir düzeye taşımış olsalar da, ekranın arkasında bazı çirkin şeyler dönüyor.
 
