@@ -6,9 +6,9 @@
 <p align="center"><img src="https://i.ibb.co/jLjYgYy/16faabb6f162ccb807e3f64c586bb6cf19bf1fa77b594e337bb8f35f371c07825333a565f801787fda39a3ee5e6b4b0d3255.png" /></p>
 
 *<p align="center">Siber güvenliğinizi ve gizliliğinizi korumak için derlenmiş ipuçları listesi</p>*
-*<p align="center">ClimpyX tarafından Türkçeleştirildi, beni [GitHub'da](https://www.github.com/ClimpyX) ve [Twitter'da](https://www.twitter.com/ClimpyX) takip edin.</p>*
+*<p align="center">Climpy(Efe) tarafından Türkçeleştirildi, beni [GitHub'da](https://www.github.com/ClimpyX) ve [Twitter'da](https://www.twitter.com/ClimpyX) takip edin.</p>*
 
-### Contents
+### İçindekiler
 
 [<img src="https://i.ibb.co/XbyGTrP/1-authentication-2-36x36.png" width="28" height="28" /> Kimlik Doğrulama](#kimlik-doğrulama)<br>
 [<img src="https://i.ibb.co/8KMrdbX/2-internet-36x36.png" width="28" height="28" /> Web'de Gezinme](#web-de-gezinme)<br>
@@ -23,11 +23,11 @@
 [<img src="https://i.ibb.co/KVPV1Lk/10-human-36x36.png" width="28" height="28" /> İnsan Faaliyetleri](#İnsan-faaliyetleri)<br>
 [<img src="https://i.ibb.co/9NbhBww/11-physical-36x36.png" width="28" height="28" /> Fiziksel Güvenlik](#fiziksel-güvenlik)<br>
 
-Çok mu uzun? 🦒 Bunun yerine [TLDR versiyon](/2_TLDR_Short_List.md) 'a göz atın.
+Makale çok mu uzun? 🦒 Bunun yerine [Kısaltılmış versiyon](/2_TLDR_Short_List.md) 'a göz atın.
 
 Gizliliğe önem veren yazılımların bir listesi için, şurayı kontrol edin: [Awesome-Privacy](https://github.com/lissy93/awesome-privacy).
 
-Bu repo'nun bir tür benzeri şuradadır: [codeberg.org/alicia/personal-security-checklist](https://codeberg.org/alicia/personal-security-checklist).
+Bu repo'nun benzeri için: [codeberg.org/alicia/personal-security-checklist](https://codeberg.org/alicia/personal-security-checklist).
 
 ----
 
