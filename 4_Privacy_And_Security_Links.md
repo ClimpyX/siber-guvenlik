@@ -9,7 +9,7 @@
 ## İçindekiler
 
 - **Bilgi ve Kılavuzlar**
-  - [Nasıl Yapılır Kılavuzları](#how-to-guides)
+  - [Nasıl Yapılır Kılavuzları](#rehberler)
   - [Makaleler](#articles)
   - [Bloglar](#bloglar)
 - **Medya**
@@ -31,9 +31,9 @@
   - [Diğer GitHub Güvenlik Listeleri](#more-awesome-github-lists)
 
 
-## How-To Guides
+## Rehberler
 
-- **Threat Protection**
+- **Tehditten Korunma**
   - Protect against SIM-swap scam: via [wired](https://www.wired.com/story/sim-swap-attack-defend-phone)
   - How to spot a phishing attack: via [EFF](https://ssd.eff.org/en/module/how-avoid-phishing-attacks)
   - Protection from Identity Theft: via [Restore Privacy](https://restoreprivacy.com/identity-theft-fraud)
