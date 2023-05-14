@@ -34,12 +34,12 @@
 ## Rehberler
 
 - **Tehditten Korunma**
-  - Protect against SIM-swap scam: via [wired](https://www.wired.com/story/sim-swap-attack-defend-phone)
-  - How to spot a phishing attack: via [EFF](https://ssd.eff.org/en/module/how-avoid-phishing-attacks)
-  - Protection from Identity Theft: via [Restore Privacy](https://restoreprivacy.com/identity-theft-fraud)
-  - Protecting from key-stroke-logging, with KeyScrambler: via [TechRepublic](https://www.techrepublic.com/blog/it-security/keyscrambler-how-keystroke-encryption-works-to-thwart-keylogging-threats)
-  - Guide to Hash Checks, to ensure a program has not been tampered with: via [ProPrivacy](https://proprivacy.com/guides/how-why-and-when-you-should-hash-check)
-  - Permanently and Securely Delete ‘Files and Directories’ in Linux: via [TechMint](https://www.tecmint.com/permanently-and-securely-delete-files-directories-linux/)
+  - SIM değiştirme dolandırıcılığına karşı korunun: [wired](https://www.wired.com/story/sim-swap-attack-defend-phone)
+  - Kimlik avı saldırısı nasıl tespit edilir: [EFF](https://ssd.eff.org/en/module/how-avoid-phishing-attacks)
+  - Kimlik Hırsızlığından Korunma: [Restore Privacy](https://restoreprivacy.com/identity-theft-fraud)
+  - KeyScrambler ile tuşlarının kaydedilmesinden(key-stroke-logging) korunma: [TechRepublic](https://www.techrepublic.com/blog/it-security/keyscrambler-how-keystroke-encryption-works-to-thwart-keylogging-threats)
+  - Bir programın kurcalanmadığından emin olmak için Hash Kontrolleri Kılavuzu: [ProPrivacy](https://proprivacy.com/guides/how-why-and-when-you-should-hash-check)
+  - Linux'ta 'Dosya ve Dizinleri' Kalıcı ve Güvenli Bir Şekilde Silmek: [TechMint](https://www.tecmint.com/permanently-and-securely-delete-files-directories-linux/)
 - **Networking**
   - How to enable DNS over HTTPS: via [geekwire](https://geekwire.co.uk/privacy-and-security-focused-dns-resolver)
   - How to resolve DNS leak issue: via [DNSLeakTest](https://www.dnsleaktest.com/how-to-fix-a-dns-leak.html) 
