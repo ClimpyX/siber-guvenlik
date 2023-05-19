@@ -60,53 +60,55 @@
   - Adium (MacOS) ile OTR mesajlaşma nasıl kullanılır: [CalyxiIstitute.org](https://calyxinstitute.org/docs/howto-encrypted-instant-messaging-with-osx-adium-and-otr)
   - Plaintext e-postaları kullanmak için tam kılavuz: [useplaintext.email](https://useplaintext.email/)
 - **Cihazlar**
-  - How to Enable Encryption on your Devices: via [SpreadPrivacy.com](https://spreadprivacy.com/how-to-encrypt-devices/)
-  - How to Delete your Data Securely: Via EFF - [Windows](https://ssd.eff.org/en/module/how-delete-your-data-securely-windows), [MacOS](https://ssd.eff.org/en/module/how-delete-your-data-securely-macos) and [Linux](https://ssd.eff.org/en/module/how-delete-your-data-securely-linux) 
-  - Layers of Personal Tech Security: via [The Wire Cutter](https://thewirecutter.com/blog/internet-security-layers)
-  - Device-Specific Privacy Guides: via [SpreadPrivacy](https://spreadprivacy.com/tag/device-privacy-tips/)
-    - For: [Windows 10](https://spreadprivacy.com/windows-10-privacy-tips/), [MacOS](https://spreadprivacy.com/mac-privacy-tips/), [Linux](https://spreadprivacy.com/linux-privacy-tips/), [Android](https://spreadprivacy.com/android-privacy-tips/) and [iOS](https://spreadprivacy.com/iphone-privacy-tips/)
-  - Guide to scrubbing Windows OSs from forensic investigation: by u/moschles, via [Reddit](https://www.reddit.com/r/security/comments/32fb1l/open_guide_to_scrubbing_windows_oss_from_forensic)
-  - A curated list of Windows Domain Hardening techniques: by @PaulSec, via: [GitHub](https://github.com/PaulSec/awesome-windows-domain-hardening)
-  - Configuring Gboard for better Privacy: via [Ghacks](https://www.ghacks.net/2016/12/21/configure-gboard-privacy-google-keyboard/)
-  - Settings to update on iPhone, for better privacy: via [lifehacker](https://lifehacker.com/the-privacy-enthusiasts-guide-to-using-an-iphone-1792386831)
-  - How to check App Permissions (Android, iOS, Mac & Windows): via [Wired](https://www.wired.com/story/how-to-check-app-permissions-ios-android-macos-windows/)
-  - How to manage Self-Encrypting Drives: via [TechSpot](https://www.techspot.com/guides/869-self-encrypting-drives/)
-  - Harden your MacOS Security: via [@drduh on GitHub](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
-- **Software**
-  - Complete guide to configuring Firefox for Privacy + Speed: via [12bytes](https://12bytes.org/articles/tech/firefox/firefoxgecko-configuration-guide-for-privacy-and-performance-buffs/)
-  - Firefox Configuration Guide for Beginners: via [12bytes](https://12bytes.org/articles/tech/firefox/the-firefox-privacy-guide-for-dummies/)
-  - How to use Vera Crypt: via [howtogeek](https://www.howtogeek.com/108501/the-how-to-geek-guide-to-getting-started-with-truecrypt)
-  - How to use KeePassXC: via [EFF](https://ssd.eff.org/en/module/how-use-keepassxc)
-  - How to use uMatrix browser addon to block trackers: via [ProPrivacy](https://proprivacy.com/privacy-service/guides/lifehacks-setup-umatrix-beginners) 
-  - How to set up 2-Factor Auth on common websites: via [The Verge](https://www.theverge.com/2017/6/17/15772142/how-to-set-up-two-factor-authentication)
-  - How to use DuckDuckGo advanced search features: via [Ghacks](https://www.ghacks.net/2013/03/24/duckduckgo-another-bag-of-tricks-to-get-the-most-out-of-it/)
-  - How to use Cryptomator (encrypt files on cloud storage): via [It's Foss](https://itsfoss.com/cryptomator/)
-- **Physical Security**
-  - Guide to Living Anonymously, Personal Data Removal and Credit Freeze: via [IntelTechniques.com](https://inteltechniques.com/data/workbook.pdf)
-  - Hiding from Physical Surveillance: via [Snallabolaget](http://snallabolaget.com/hiding-from-surveillance-how-and-why)
-  - Guide to opting-out of public data listings and marketing lists: via [World Privacy Forum](https://www.worldprivacyforum.org/2015/08/consumer-tips-top-ten-opt-outs)
-  -
-- **Enterprise**
-  - A basic checklist to harden GDPR compliancy: via [GDPR Checklist](https://gdprchecklist.io)
-- **Reference Info**
-  - A direcory of websites, apps and services supporting 2FA: via [TwoFactorAuth.org](https://twofactorauth.org)
-  - A directory of direct links to delete your account from web services: via [JustDeleteMe.xyz](https://justdeleteme.xyz)
-  - Impartial VPN Comparison Data: via [ThatOnePrivacySite](https://thatoneprivacysite.net/#detailed-vpn-comparison)
-  - Terms of Service; Didn't Read - Vital resource that summarizes and extracts the key details from Privacy Policies/ Terms of Services, aiming to fix the issues caused by blindly agreeing to these Terms: via [tosdr.org](https://tosdr.org/)
-  - Free, open-source and privacy-respecting alternatives to popular software: via [Switching.Software](https://switching.software/)
-  - Product reviews from a privacy perspective, by Mozilla: via [Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded)
-  - Surveillance Catalogue - Database of secret government surveillance equipment, Snowden: via [The Intercept](https://theintercept.com/surveillance-catalogue)
-    - See also: The source code, on WikiLeaks [Vault7](https://wikileaks.org/vault7) and [Vault8](https://wikileaks.org/vault8), and the accompanying [press release](https://wikileaks.org/ciav7p1)
-  - Who Has Your Back? - Which companies hand over your comply with Government Data Requests 2019: via [EFF](https://www.eff.org/wp/who-has-your-back-2019)
-  - Check who your local and government representatives in your local area are [WhoAreMyRepresentatives.org](https://whoaremyrepresentatives.org)
-  - Open project to rate, annotate, and archive privacy policies: via [PrivacySpy.org](https://privacyspy.org)
-  - Hosts to block: via [someonewhocares/ hosts](https://someonewhocares.org/hosts) / [StevenBlack/ hosts](https://github.com/StevenBlack/hosts)
-  - Magic Numbers - Up-to-date file signature table, to identify / verify files have not been tampered with: via [GaryKessler](https://www.garykessler.net/library/file_sigs.html)
-  - List of IP ranges per country: via [Nirsoft](https://www.nirsoft.net/countryip)
-  - Database of default passwords for various devices by manufacturer and model: via [Default-Password.info](https://default-password.info)
-- **All-in-one digital and physical security**
-  - Umbrella: an open source iOS/Android/Web app for learning about and managing digital, operational and physical security (from safe communication to dealing with a kidnap) via [Security First](https://www.secfirst.org)
+- Cihazlarınızda Şifreleme Nasıl Etkinleştirilir: [SpreadPrivacy.com](https://spreadprivacy.com/how-to-encrypt-devices/) aracılığıyla
+  - Verilerinizi Güvenli Bir Şekilde Nasıl Silebilirsiniz?: [Windows](https://ssd.eff.org/en/module/how-delete-your-data-securely-windows), [MacOS](https://ssd.eff.org/en/module/how-delete-your-data-securely-macos) ve [Linux](https://ssd.eff.org/en/module/how-delete-your-data-securely-linux) 
+  - Kişisel Teknoloji Güvenliğinin Katmanları: [The Wire Cutter](https://thewirecutter.com/blog/internet-security-layers) aracılığıyla
+  - Cihaza Özel Gizlilik Kılavuzları: [SpreadPrivacy](https://spreadprivacy.com/tag/device-privacy-tips/) aracılığıyla
+    - İçin: [Windows 10](https://spreadprivacy.com/windows-10-privacy-tips/), [MacOS](https://spreadprivacy.com/mac-privacy-tips/), [Linux](https://spreadprivacy.com/linux-privacy-tips/), [Android](https://spreadprivacy.com/android-privacy-tips/) ve [iOS](https://spreadprivacy.com/iphone-privacy-tips/)
+  - Windows işletim sistemlerini adli soruşturmadan temizleme kılavuzu: u/moschles tarafından, [Reddit](https://www.reddit.com/r/security/comments/32fb1l/open_guide_to_scrubbing_windows_oss_from_forensic) aracılığıyla
+  - Windows Etki Alanı Sertleştirme tekniklerinin derlenmiş bir listesi: @PaulSec tarafından, aracılığıyla: [GitHub](https://github.com/PaulSec/awesome-windows-domain-hardening)
+  - Daha iyi Gizlilik için Gboard'u Yapılandırma: [Ghacks](https://www.ghacks.net/2016/12/21/configure-gboard-privacy-google-keyboard/) aracılığıyla
+  - Daha iyi gizlilik için iPhone'da güncellenecek ayarlar: via [lifehacker](https://lifehacker.com/the-privacy-enthusiasts-guide-to-using-an-iphone-1792386831)
+  - Uygulama İzinleri Nasıl Kontrol Edilir (Android, iOS, Mac ve Windows): [Wired](https://www.wired.com/story/how-to-check-app-permissions-ios-android-macos-windows/) aracılığıyla
+  - Kendiliğinden Şifrelenen Sürücüler nasıl yönetilir: [TechSpot](https://www.techspot.com/guides/869-self-encrypting-drives/) aracılığıyla
+  - MacOS Güvenliğinizi Güçlendirin: [@drduh on GitHub](https://github.com/drduh/macOS-Security-and-Privacy-Guide) aracılığıyla
 
+
+- **Yazılım**
+  - Firefox'u Gizlilik + Hız için yapılandırmaya yönelik eksiksiz kılavuz: [12bytes](https://12bytes.org/articles/tech/firefox/firefoxgecko-configuration-guide-for-privacy-and-performance-buffs/)
+  - Yeni Başlayanlar için Firefox Yapılandırma Kılavuzu: [12bytes](https://12bytes.org/articles/tech/firefox/the-firefox-privacy-guide-for-dummies/)
+  - VeraCrypt nasıl kullanılır: [howtogeek](https://www.howtogeek.com/108501/the-how-to-geek-guide-to-getting-started-with-truecrypt)
+  - KeePassXC nasıl kullanılır: [EFF](https://ssd.eff.org/en/module/how-use-keepassxc)
+  - İzleyicileri engellemek için uMatrix tarayıcı eklentisi nasıl kullanılır: [ProPrivacy](https://proprivacy.com/privacy-service/guides/lifehacks-setup-umatrix-beginners) 
+  - Yaygın web sitelerinde 2 Faktörlü Kimlik Doğrulama nasıl kurulur: [The Verge](https://www.theverge.com/2017/6/17/15772142/how-to-set-up-two-factor-authentication)
+  - DuckDuckGo gelişmiş arama özellikleri nasıl kullanılır: [Ghacks](https://www.ghacks.net/2013/03/24/duckduckgo-another-bag-of-tricks-to-get-the-most-out-of-it/)
+  - Cryptomator nasıl kullanılır (bulut depolama alanındaki dosyaları şifreleme): [It's Foss](https://itsfoss.com/cryptomator/)
+- **Fiziksel Güvenlik**
+  - Anonim Yaşama, Kişisel Verileri Kaldırma ve Kredi Dondurma Rehberi: [IntelTechniques.com](https://inteltechniques.com/data/workbook.pdf)
+  - Fiziksel Gözetimden Saklanmak: [Snallabolaget](http://snallabolaget.com/hiding-from-surveillance-how-and-why)
+  - Herkese açık veri listelerinden ve pazarlama listelerinden çıkma kılavuzu: [Dünya Gizlilik Forumu](https://www.worldprivacyforum.org/2015/08/consumer-tips-top-ten-opt-outs)
+
+
+- **Kurumsal**
+  - GDPR uyumluluğunu güçlendirmek için temel bir kontrol listesi: [GDPR Kontrol Listesi](https://gdprchecklist.io)
+- **Referans Bilgisi**
+  - 2FA'yı destekleyen web siteleri, uygulamalar ve hizmetler dizini: [TwoFactorAuth.org](https://twofactorauth.org)
+  - Hesabınızı web hizmetlerinden silmek için doğrudan bağlantılardan oluşan bir dizin: [JustDeleteMe.xyz](https://justdeleteme.xyz)
+  - Tarafsız VPN Karşılaştırma Verileri: [ThatOnePrivacySite](https://thatoneprivacysite.net/#detailed-vpn-comparison)
+  - Terms of Service; Didn't Read - Gizlilik Politikaları/Hizmet Şartlarından önemli ayrıntıları özetleyen ve çıkaran, bu Şartları körü körüne kabul etmenin neden olduğu sorunları çözmeyi amaçlayan hayati bir kaynak: [tosdr.org](https://tosdr.org/)
+  - Popüler yazılımlara ücretsiz, açık kaynaklı ve gizliliğe saygılı alternatifler: [Switching.Software](https://switching.software/)
+  - Gizlilik perspektifinden ürün incelemeleri, Mozilla tarafından: [Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded)
+  - Gözetim Kataloğu - Gizli hükümet gözetim ekipmanlarının veritabanı, Snowden: [The Intercept](https://theintercept.com/surveillance-catalogue)
+    - Ayrıca bakınız: WikiLeaks [Vault7](https://wikileaks.org/vault7) ve [Vault8](https://wikileaks.org/vault8) kaynak kodları ve bunlara eşlik eden [basın açıklaması](https://wikileaks.org/ciav7p1)
+  - Arkanızda Kim Var? - Hangi şirketler Devlet Veri Taleplerine uymanızı sağlıyor 2019: [EFF](https://www.eff.org/wp/who-has-your-back-2019)
+  - Bölgenizdeki yerel ve hükümet temsilcilerinizin kimler olduğunu kontrol edin [WhoAreMyRepresentatives.org](https://whoaremyrepresentatives.org)
+  - Gizlilik politikalarını derecelendirmek, açıklama eklemek ve arşivlemek için açık proje: [PrivacySpy.org](https://privacyspy.org)
+  - Engellenecek ana bilgisayarlar: [someonewhocares/ hosts](https://someonewhocares.org/hosts) / [StevenBlack/ hosts](https://github.com/StevenBlack/hosts)
+  - Sihirli Sayılar - Dosyaların tahrif edilmediğini belirlemek / doğrulamak için güncel dosya imza tablosu: [GaryKessler](https://www.garykessler.net/library/file_sigs.html)
+  - Ülke başına IP aralıkları listesi: [Nirsoft](https://www.nirsoft.net/countryip)
+  - Üretici ve modele göre çeşitli cihazlar için varsayılan şifrelerin veritabanı: [Default-Password.info](https://default-password.info)
+- **Hepsi bir arada dijital ve fiziksel güvenlik**
+  - Umbrella: [Security First](https://www.secfirst.org) aracılığıyla dijital, operasyonel ve fiziksel güvenliği (güvenli iletişimden kaçırılma ile başa çıkmaya kadar) öğrenmek ve yönetmek için açık kaynaklı bir iOS/Android/Web uygulaması
 
 
 ## Articles
